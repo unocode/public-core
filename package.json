@@ -20,7 +20,7 @@
   "license": "ISC",
   "homepage": "https://bitbucket.org/triggolabs/unocode#readme",
   "devDependencies": {
-    "microbundle": "^0.4.4"
+    "microbundle": "^0.15.1"
   },
   "dependencies": {
     "chai": "^4.1.2"
